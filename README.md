@@ -2,7 +2,7 @@
 
 
 
-[![Edgar's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=edgarsilva948&theme=xcode)](https://github.com/edgarsilva948/edgarsilva948)
+[![Edgar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=edgarsilva948&theme=xcode)](https://github.com/edgarsilva948/edgarsilva948)
 
 
 
