@@ -3,10 +3,6 @@
 - 👨🏻‍💻 I'm a Sr. Cloud Infrastructure Architect at AWS. 
 - 💬 Feel free to ask me anything!
 - 📫 Connect with me on [LinkedIn](https://linkedin.com/in/edgarsilva948).
-- ⚡ Fun fact: I love certifications! My collection includes:
-  - **Red Hat Certified Architect** - RHCA x3 (expired)
-  - **AWS Certifications** - 7 so far, aiming for 3 more to earn the Golden Jacket award.
-  - **Kubernetes Certifications** - CKA, CKAD and CKS - working towards 2 more to achieve the Kubestronaut title.
 
 <!-- GitHub Stats Widgets -->
 <div>
