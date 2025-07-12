@@ -1,7 +1,6 @@
 # 👋🏻 Hello, I'm Edgar Costa!
 
-- 👨🏻‍💻 I'm a Sr. Cloud Infrastructure Architect at AWS. 
-- 💬 Feel free to ask me anything!
+- 👨🏻‍💻 I'm a Sr. Solutions Architect at AWS. 
 - 📫 Connect with me on [LinkedIn](https://linkedin.com/in/edgarsilva948).
 
 <!-- GitHub Stats Widgets -->
